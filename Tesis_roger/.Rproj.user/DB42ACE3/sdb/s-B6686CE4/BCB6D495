@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1470779963247.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BCB6D495",
+    "lastKnownWriteTime" : 27303570957139969,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "vvhwfg7m5c",
+        "caption" : "MatrxCorpus",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=MatrxCorpus&cache_key=vvhwfg7m5c",
+        "displayedObservations" : 692,
+        "environment" : "",
+        "object" : "MatrxCorpus",
+        "totalObservations" : 692,
+        "variables" : 31
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
